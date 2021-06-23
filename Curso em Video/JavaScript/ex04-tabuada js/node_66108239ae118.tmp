@@ -1,0 +1,11 @@
+function confirm(){
+
+    let num = 5
+    let end = 10
+    for (c = 0; num <= end; num += c){
+        console.log(`${num} X ${c} = ${num*c}`)
+    }
+
+}
+
+confirm()

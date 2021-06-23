@@ -1,0 +1,7 @@
+var begin = 12
+var end = 25
+var step = 2
+
+for (var c = 12; c <= 25; c + 2){
+    console.log(c)
+}
